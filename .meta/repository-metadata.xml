@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repository-metadata>
+  <version>1.0.0</version>
+  <url>@rootUrl@/content/repositories/apobbati-release-maven-repo</url>
+  <id>apobbati-release-maven-repo</id>
+  <name>My Release Repository</name>
+  <layout>maven2</layout>
+  <policy>release</policy>
+</repository-metadata>
